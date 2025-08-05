@@ -1,1 +1,16 @@
-Date,Event_Name,Event_Type,Description,Source
+date,event,type,source,price,percent_change,description
+2022-02-24,Russia invades Ukraine,Geopolitical Conflict,UN Security Council,105.79,8.0,Conflict triggers energy sanctions and supply concerns
+2021-07-18,OPEC+ resolves dispute on output hikes,OPEC Agreement,Al Jazeera,73.07,5.3,Agreement eases tensions and stabilizes prices
+2020-04-20,Brent oil futures turn negative,Market Anomaly,Bloomberg,-2.58,-105.0,COVID-19 lockdowns and storage shortage create historic crash
+2016-12-10,OPEC & Non-OPEC agree production cuts,Strategic Alliance,OPEC Secretariat,53.25,6.9,First joint production cut in 15 years
+2014-11-27,OPEC refuses to cut production,OPEC Decision,OPEC Newsroom,72.58,-10.2,Oil prices crash amid rising U.S. shale production
+2011-02-22,Libya uprising begins,Geopolitical Conflict,BBC,108.5,7.8,Civil unrest affects oil exports from Libya
+2008-12-17,OPEC announces record production cuts,OPEC Decision,Reuters,36.55,12.3,OPEC cuts 2.2 million barrels/day due to falling demand
+2008-07-11,Oil hits $147 record,Price Milestone,NYMEX,147.27,3.2,Driven by demand speculation and geopolitical tension
+2005-08-29,Hurricane Katrina hits Gulf Coast,Natural Disaster,NOAA,69.81,8.4,Storm damages U.S. oil infrastructure and disrupts supply
+2003-03-20,U.S. invades Iraq,Geopolitical Conflict,UN Archives,34.75,9.6,War leads to fears of supply disruptions
+2001-09-11,9/11 Terrorist Attacks,Terrorism,CNN,27.75,-12.5,Attack reduces oil demand due to travel and economic shock
+1999-03-23,OPEC production cuts announced,OPEC Decision,OPEC Archives,14.0,10.5,OPEC cuts 1.7 million barrels per day to boost prices
+1997-07-02,Asian Financial Crisis begins,Economic Crisis,IMF Reports,19.25,-22.0,Reduced demand from Asia leads to oil price decline
+1990-08-02,Iraq invades Kuwait,Geopolitical Conflict,Historical Records,28.2,25.8,Invasion leads to UN sanctions and Gulf War fears
+1987-10-19,Black Monday stock crash,Financial Crisis,Wall Street Journal,18.0,-15.3,"Stock market crash spreads panic, affecting oil demand outlook"

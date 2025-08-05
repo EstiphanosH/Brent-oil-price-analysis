@@ -1,0 +1,16 @@
+[
+  {
+    "date": "2023-01-15",
+    "event": "Test event 1",
+    "type": "Test",
+    "description": "This is a test event",
+    "percent_change": 2.5
+  },
+  {
+    "date": "2023-01-16",
+    "event": "Test event 2",
+    "type": "Test",
+    "description": "Another test event",
+    "percent_change": -1.8
+  }
+]
