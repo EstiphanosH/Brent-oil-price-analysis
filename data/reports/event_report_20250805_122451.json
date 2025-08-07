@@ -1,0 +1,137 @@
+[
+  {
+    "date": "2022-02-24",
+    "event": "Russia invades Ukraine",
+    "type": "Geopolitical Conflict",
+    "source": "UN Security Council",
+    "price": 105.79,
+    "percent_change": 8.0,
+    "description": "Conflict triggers energy sanctions and supply concerns"
+  },
+  {
+    "date": "2021-07-18",
+    "event": "OPEC+ resolves dispute on output hikes",
+    "type": "OPEC Agreement",
+    "source": "Al Jazeera",
+    "price": 73.07,
+    "percent_change": 5.3,
+    "description": "Agreement eases tensions and stabilizes prices"
+  },
+  {
+    "date": "2020-04-20",
+    "event": "Brent oil futures turn negative",
+    "type": "Market Anomaly",
+    "source": "Bloomberg",
+    "price": -2.58,
+    "percent_change": -105.0,
+    "description": "COVID-19 lockdowns and storage shortage create historic crash"
+  },
+  {
+    "date": "2016-12-10",
+    "event": "OPEC & Non-OPEC agree production cuts",
+    "type": "Strategic Alliance",
+    "source": "OPEC Secretariat",
+    "price": 53.25,
+    "percent_change": 6.9,
+    "description": "First joint production cut in 15 years"
+  },
+  {
+    "date": "2014-11-27",
+    "event": "OPEC refuses to cut production",
+    "type": "OPEC Decision",
+    "source": "OPEC Newsroom",
+    "price": 72.58,
+    "percent_change": -10.2,
+    "description": "Oil prices crash amid rising U.S. shale production"
+  },
+  {
+    "date": "2011-02-22",
+    "event": "Libya uprising begins",
+    "type": "Geopolitical Conflict",
+    "source": "BBC",
+    "price": 108.5,
+    "percent_change": 7.8,
+    "description": "Civil unrest affects oil exports from Libya"
+  },
+  {
+    "date": "2008-12-17",
+    "event": "OPEC announces record production cuts",
+    "type": "OPEC Decision",
+    "source": "Reuters",
+    "price": 36.55,
+    "percent_change": 12.3,
+    "description": "OPEC cuts 2.2 million barrels/day due to falling demand"
+  },
+  {
+    "date": "2008-07-11",
+    "event": "Oil hits $147 record",
+    "type": "Price Milestone",
+    "source": "NYMEX",
+    "price": 147.27,
+    "percent_change": 3.2,
+    "description": "Driven by demand speculation and geopolitical tension"
+  },
+  {
+    "date": "2005-08-29",
+    "event": "Hurricane Katrina hits Gulf Coast",
+    "type": "Natural Disaster",
+    "source": "NOAA",
+    "price": 69.81,
+    "percent_change": 8.4,
+    "description": "Storm damages U.S. oil infrastructure and disrupts supply"
+  },
+  {
+    "date": "2003-03-20",
+    "event": "U.S. invades Iraq",
+    "type": "Geopolitical Conflict",
+    "source": "UN Archives",
+    "price": 34.75,
+    "percent_change": 9.6,
+    "description": "War leads to fears of supply disruptions"
+  },
+  {
+    "date": "2001-09-11",
+    "event": "9/11 Terrorist Attacks",
+    "type": "Terrorism",
+    "source": "CNN",
+    "price": 27.75,
+    "percent_change": -12.5,
+    "description": "Attack reduces oil demand due to travel and economic shock"
+  },
+  {
+    "date": "1999-03-23",
+    "event": "OPEC production cuts announced",
+    "type": "OPEC Decision",
+    "source": "OPEC Archives",
+    "price": 14.0,
+    "percent_change": 10.5,
+    "description": "OPEC cuts 1.7 million barrels per day to boost prices"
+  },
+  {
+    "date": "1997-07-02",
+    "event": "Asian Financial Crisis begins",
+    "type": "Economic Crisis",
+    "source": "IMF Reports",
+    "price": 19.25,
+    "percent_change": -22.0,
+    "description": "Reduced demand from Asia leads to oil price decline"
+  },
+  {
+    "date": "1990-08-02",
+    "event": "Iraq invades Kuwait",
+    "type": "Geopolitical Conflict",
+    "source": "Historical Records",
+    "price": 28.2,
+    "percent_change": 25.8,
+    "description": "Invasion leads to UN sanctions and Gulf War fears"
+  },
+  {
+    "date": "1987-10-19",
+    "event": "Black Monday stock crash",
+    "type": "Financial Crisis",
+    "source": "Wall Street Journal",
+    "price": 18.0,
+    "percent_change": -15.3,
+    "description": "Stock market crash spreads panic, affecting oil demand outlook"
+  }
+]
